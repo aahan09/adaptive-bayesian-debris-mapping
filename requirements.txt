@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas>=2.0,<3
+scipy>=1.11,<2
+matplotlib>=3.8,<4
+h5py>=3.10,<4
+astropy>=6,<8
+sgp4>=2.25,<3
+pyarrow>=15,<23
+psutil>=5.9,<8
+jupyterlab>=4,<5
+hardtarget @ git+https://github.com/danielk333/hardtarget.git@ffdf6cee99f021d554c34dec50360cf614864896
